@@ -35,3 +35,13 @@ body {
   animation-name: modalopen;
   animation-duration: 1s;
 }
+
+.modal-header h2, .modal-footer h3 {
+  margin: 0;
+}
+
+.modal-header {
+  background: coral;
+  padding: 15px;
+  color: #fff;
+}
