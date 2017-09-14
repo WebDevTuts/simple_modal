@@ -45,3 +45,7 @@ body {
   padding: 15px;
   color: #fff;
 }
+
+.modal-body {
+  padding: 10px 20px;
+}
