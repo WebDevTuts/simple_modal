@@ -49,3 +49,9 @@ body {
 .modal-body {
   padding: 10px 20px;
 }
+
+.modal-footer {
+  background: coral;
+  padding: 10px;
+  color: #fff;
+}
